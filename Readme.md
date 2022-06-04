@@ -1,6 +1,4 @@
-# Readme
-
-## Ant Colony Optimization
+# Ant Colony Optimization
 
 Ant colonies are distributed systems that in spite of their
 simplicity represent a highly structured social organization. Based on their
